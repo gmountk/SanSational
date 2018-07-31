@@ -13,6 +13,7 @@ weight = 5
     "Wearable Computing",
     "Machine Learning",
     "Physiological Measurements"
+    "Mobile Healthcare"
   ]
 
 # List your qualifications (such as academic degrees).
