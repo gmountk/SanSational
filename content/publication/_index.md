@@ -1,8 +1,8 @@
 +++
-title = "Publications"
-date = 2017-01-01T00:00:00
+title = "Detecting Eating Episodes by Tracking Jawbone Movements with a Non-Contact Wearable Sensor"
+date = 2018-03
 math = false
-highlight = false
+highlight = true
 
 # List format.
 #   0 = Simple
