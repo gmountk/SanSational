@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Wearable Computing",
     "Machine Learning",
-    "Physiological Measurements"
+    "Physiological Measurements",
     "Mobile Healthcare"
   ]
 
