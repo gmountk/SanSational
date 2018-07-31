@@ -30,6 +30,6 @@ weight = 5
 +++
 
 # Biography
-Welcome to SANsational! My name is Keum San Chun, and I usually go by San. I am a 4th year Ph.D student at University of Texas-Austin. I am passionate about approaching problems systematically and solving the problems using novel approaches. My research interests lie in wearable computing and mobile healthcare. More specifically, my research works involve leveraging the built-in sensors available in commercial devices such as smartphones, smartwatches, activity trackers, smart water bottles and etc. and using the data collected from the sensors for recognizing human activities or detecting any underlying physiological symptoms/conditions that may not be clearly visible or perceptible to us. 
+Welcome to SANsational! My name is San. I am a 4th year Ph.D student at University of Texas-Austin. I am a 4th year Ph.D student at University of Texas – Austin. My research interests lie in wearable computing and mobile healthcare. More specifically, I am interested in leveraging built-in sensors available in commercial devices such as smartphones, smartwatches, activity trackers and etc. to recognize human activities or detect underlying pathophysiological conditions that may not be clearly visible or perceptible to humans. 
 
 I received a bachelor's degree in Biomedical engineering at University of Wisconsin - Madison. At University of Wisconsin-Madison, I worked in Bioinstrumentation Lab and I was supervised by Dr. John G. Webster. Here at UT, I am in Human Signals Lab and I am surpvised by Dr. Edison Thomaz.
