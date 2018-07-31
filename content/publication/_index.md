@@ -1,6 +1,6 @@
 +++
 title = "Detecting Eating Episodes by Tracking Jawbone Movements with a Non-Contact Wearable Sensor"
-date = 2018-03
+date = ""
 math = false
 highlight = true
 
