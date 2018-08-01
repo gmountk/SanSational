@@ -62,13 +62,13 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Texas at Austin", url = "https://www.utexas.edu" } ]
+  organizations = [ { name = "University of Texas at Austin", url = "https://www.utexas.edu" } ,{ name = "Electrical and Computer Engineering", url = "http://www.engr.utexas.edu/programs/electrical" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gmountk@utexas.edu"
   address = ""
-  office_hours = ["Monday 10:00  AM to 12:00 AM or email for appointment","Tuesday 10:00  AM to 12:00 AM or email for appointment"]
+  office_hours = [{"Monday 10:00  AM to 12:00 AM or email for appointment"},{"Tuesday 10:00  AM to 12:00 AM or email for appointment"}]
   phone = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
