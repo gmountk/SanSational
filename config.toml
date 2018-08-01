@@ -69,9 +69,6 @@ enableGitInfo = false
   email = "gmountk@utexas.edu"
   address = ""
   office_hours = "Monday 10:00  AM to 12:00 AM or email for appointment"
-  office_hours = "Tuesday 10:00  AM to 12:00 AM or email for appointment"
-  office_hours = "Wednesday 10:00  AM to 12:00 AM or email for appointment"
-  office_hours = "Thursday 10:00  AM to 12:00 AM or email for appointment"
   phone = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
