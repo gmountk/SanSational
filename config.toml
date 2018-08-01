@@ -68,10 +68,7 @@ enableGitInfo = false
   avatar = "profile.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gmountk@utexas.edu"
   address = ""
-  office_hours = "Monday 10:00  AM to 12:00 AM or email for appointment" + 
-  "Tuesday 10:00  AM to 12:00 AM or email for appointment" +
-  "Wednesday 10:00  AM to 12:00 AM or email for appointment" +
-  "Thursday 10:00  AM to 12:00 AM or email for appointment"
+  office_hours = "Monday 10:00  AM to 12:00 AM or email for appointment"
   phone = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
