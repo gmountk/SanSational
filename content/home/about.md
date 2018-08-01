@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "M.S./Ph.D in Electrical Engineering"
   institution = "Univeristy of Texas - Austin"
-  year = "2015 - 2021(Expected)"
+  year = "2015 - 2021"
 
 [[education.courses]]
   course = "B.S. in Biomedical Engineering"
