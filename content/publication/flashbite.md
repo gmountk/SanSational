@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Detecting Eating Episodes by Tracking Jawbone Movements with a Non-Contact Wearable Sensor"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Keum San Chun", "Sarnab Bhattacharya, Edison Thomaz"]
 
 # Publication type.
 # Legend:
@@ -16,14 +16,15 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "Proceedings of the ACM: Interactive Mobile, Wearable and Ubiquitous Technologies (IMWUT),"
+publication_short = "IMWUT"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+abstract = "Eating is one of the most fundamental human activities, and because of the important role it plays in our lives, it has been extensively studied. However, an objective and usable method for dietary intake tracking remains unrealized despite numerous efforts by researchers over the last decade. In this work, we present a new wearable computing approach for detecting eating episodes. Using a novel multimodal sensing strategy combining accelerometer and range sensing, the approach centers on a discreet and lightweight instrumented necklace that captures head and jawbone movements without direct contact with the skin. An evaluation of the system with 32 participants comprised of three phases resulted in eating episodes detected with 95.2% precision and 81.9% recall in controlled studies and 78.2% precision and 72.5% recall in the free-living study. This research add technical contributions to the fields of wearable computing, human activity recognition, and mobile health."
+
 abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
@@ -39,7 +40,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "pdf/chun2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
