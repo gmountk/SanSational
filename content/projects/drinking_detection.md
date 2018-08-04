@@ -1,12 +1,12 @@
 +++
-title = "FlashBite"
+title = "Drinking Detection Using an Activity Tracker"
 
 # Abstract and optional shortened version.
 abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
 abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-image_preview = "flashbite.jpg"
+image_preview = ""
 
 
 # Is this a selected publication? (true/false)
