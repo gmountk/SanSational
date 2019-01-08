@@ -5,7 +5,7 @@ title = "Detecting Eating Episodes by Tracking Jawbone Movements with a Non-Cont
 date = "2018-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Keum San Chun", "Sarnab Bhattacharya, Edison Thomaz"]
+authors = ["Keum San Chun", "Sarnab Bhattacharya", "Edison Thomaz"]
 
 # Publication type.
 # Legend:
