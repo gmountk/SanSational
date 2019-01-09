@@ -2,7 +2,7 @@
 title = "Towards a Generalizable Method for Detecting Fluid Intake with Wrist-Mounted Sensors and Adaptive Segmentation"
 
 # Date first published.
-#date = "2018-03-01"
+#date = "2019-03-17"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Keum San Chun", "Ashley B. Sanders", "Rebecca Adaimi","Necole Streeper","David E. Conroy", "Edison Thomaz"]
