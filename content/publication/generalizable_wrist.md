@@ -25,7 +25,7 @@ publication_short = "IUI"
 # Abstract and optional shortened version.
 abstract = "Over the last decade, advances in mobile technologies have enabled the development of intelligent systems that attempt to recognize and model a variety of health-related human behaviors. While automated dietary monitoring based on passive sensors has been an area of increasing research activity for many years, much less attention has been given to tracking fluid intake. In this work, we apply an adaptive segmentation technique on a continuous stream of inertial data captured with a practical, off-the-shelf wrist-mounted device to detect fluid intake gestures passively. We evaluated our approach in a study with 30 participants where 561 drinking instances were recorded. Using a leave-one-participant-out (LOPO), we were able to detect drinking episodes with 90.3 % precision and 91.0 % recall, demonstrating the generalizability of our approach. In addition to our proposed method, we also contribute an anonymized and labeled dataset of drinking and non-drinking gestures to encourage further work in the field."
 
-abstract_short = "We propose an approach that leverages off-the-shelf activity tracker to detect drinking events."
+abstract_short = "We propose an approach that leverages off-the-shelf activity tracker to detect drinking events. Here, we also apply an adaptive windowing approach in the analysis to capture the wide distribution of drinking durations."
 
 # Featured image thumbnail (optional)
 image_preview = ""
