@@ -16,6 +16,15 @@ weight = 5
     "Physiological Measurements",
     "Mobile Healthcare"
   ]
+  
+ [interests]
+ interests = [
+      "Automated Dietary Monitoring",
+    "Wearable Computing",
+    "Machine Learning",
+    "Physiological Measurements",
+    "Mobile Healthcare"
+  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
