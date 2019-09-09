@@ -17,8 +17,8 @@ weight = 5
     "Mobile Healthcare"
   ]
   
- [interests]
- interests = [
+ [Skills]
+ skills = [
       "Automated Dietary Monitoring",
     "Wearable Computing",
     "Machine Learning",
