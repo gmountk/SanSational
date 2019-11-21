@@ -32,7 +32,7 @@ weight = 5
 
 # Welcome!
 
-Hi, my name is Keum San. I am a 5th year Ph.D student at The University of Texas at Austin. My research interests are in wearable/mobile computing and mobile healthcare. Many of my projects involve designing/building custom hardware and developing algorithms for human activity recognition. My main focus area lies in automated dietary monitoring.
+Hi, my name is Keum San. I am a Ph.D candidate at The University of Texas at Austin. My research interests are in wearable/mobile computing and mobile healthcare. Many of my projects involve designing/building custom hardware and developing algorithms for human activity recognition. My main focus area lies in automated dietary monitoring.
 
 I received a bachelor's degree in Biomedical engineering at University of Wisconsin - Madison. At University of Wisconsin-Madison, I worked in Bioinstrumentation Lab and I was supervised by [Dr. John G. Webster](https://directory.engr.wisc.edu/display.php/faculty/webster_john?page=bme&search=faculty&item=webster_john). Here at UT, I am in Human Signals Lab and I am surpvised by [Dr. Edison Thomaz](http://users.ece.utexas.edu/~ethomaz/).
 
