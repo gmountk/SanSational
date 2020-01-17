@@ -5,7 +5,7 @@ title = "Towards Passive Assessment of Pulmonary Function from Natural Speech Re
 date = "2020-03-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Keum San Chun", "Viswam Nathan", "Korosh Vatanparvar","Ebrahim Nemati","Md Mahbubur Rahman", "Erin Blackstock", "Jilong Kuang"]
+authors = ["Keum San Chun", "Viswam Nathan", "Korosh Vatanparvar"]
 
 # Publication type.
 # Legend:
