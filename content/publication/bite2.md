@@ -1,11 +1,11 @@
 +++
-title = "Detecting Eating Episodes by Tracking Jawbone Movements with a Non-Contact Wearable Sensor"
+title = "Towards Passive Assessment of Pulmonary Function from Natural Speech Recorded Using a Mobile Phone"
 
 # Date first published.
-date = "2018-03-01"
+date = "2020-03-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Keum San Chun", "Sarnab Bhattacharya", "Edison Thomaz"]
+authors = ["Keum San Chun", "Viswam Nathan", "Korosh Vatanparvar","Ebrahim Nemati","Md Mahbubur Rahman", "Erin Blackstock", "Jilong Kuang"]
 
 # Publication type.
 # Legend:
