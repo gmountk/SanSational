@@ -1,5 +1,5 @@
 +++
-title = "Towards Passive Assessment of Pulmonary Function from Natural Speech Recorded Using a Mobile Phone"
+title = "Detecting Eating Episodes by Tracking Jawbone Movements with a Non-Contact Wearable Sensor"
 
 # Date first published.
 date = "2020-03-23"
