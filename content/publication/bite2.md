@@ -2,7 +2,7 @@
 title = "Detecting Eating Episodes by Tracking Jawbone Movements with a Non-Contact Wearable Sensor"
 
 # Date first published.
-date = "2020-03-23"
+date = "2020-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Keum San Chun", "Viswam Nathan", "Korosh Vatanparvar"]
