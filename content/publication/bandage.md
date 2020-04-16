@@ -5,7 +5,7 @@ title = "Eating Episode Detection with Jawbone-Mounted Inertial Sensing"
 date = "2020-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Keum San Chun", "Rebecca Adaimi", "Edison Thomaz"]
+authors = ["Keum San Chun", "Hyoyoung Jeong", "Rebecca Adaimi", "Edison Thomaz"]
 
 # Publication type.
 # Legend:
