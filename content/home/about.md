@@ -19,14 +19,21 @@ weight = 5
   
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "M.S./Ph.D in Electrical Engineering"
-  institution = "Univeristy of Texas - Austin"
-  year = "2015 - 2020 (Expected)"
-
-[[education.courses]]
   course = "B.S. in Biomedical Engineering"
   institution = "University of Wisconsin - Madison"
   year = "2009 - 2015"
+  
+[[education.courses]]
+  course = "M.S. in Electrical Engineering"
+  institution = "Univeristy of Texas - Austin"
+  year = "2015 - 2019"
+  
+[[education.courses]]
+  course = "Ph.D in Electrical Engineering"
+  institution = "Univeristy of Texas - Austin"
+  year = "2019 - 2020 (Expected)"
+
+
  
 +++
 
