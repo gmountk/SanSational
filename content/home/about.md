@@ -31,7 +31,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D in Electrical Engineering"
   institution = "Univeristy of Texas - Austin"
-  year = "2019 - 2020 (Expected)"
+  year = "2019 - 2020"
 
 
  
