@@ -2,7 +2,7 @@
 title = "Eating Episode Detection with Jawbone-Mounted Inertial Sensing"
 
 # Date first published.
-date = "2020-07-24"
+date = "2020-07-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Keum San Chun", "Hyoyoung Jeong", "Rebecca Adaimi", "Edison Thomaz"]
