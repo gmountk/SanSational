@@ -1,5 +1,5 @@
 +++
-title = "Eating Episode Detection with Jawbone-Mounted Inertial Sensing"
+title = "Intraoral Temperature and Motion Sensing in Automated Dietary Assessment: A Feasibility Study"
 
 # Date first published.
 date = "2020-07-26"
