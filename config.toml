@@ -65,7 +65,8 @@ enableGitInfo = false
   organizations = [ { name = "The University of Texas at Austin", url = "https://www.utexas.edu" } ,{ name = "Electrical and Computer Engineering", url = "http://www.engr.utexas.edu/programs/electrical" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profile_2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  #avatar = "profile_2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile_3.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gmountk@utexas.edu"
   address = ""
   office_hours = "Email for appointment"
